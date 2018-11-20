@@ -1,0 +1,6 @@
+[21-Apr-2018 08:12:30 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/imatrixsol/public_html/fdanew1/html/db.php on line 10
+[21-Apr-2018 08:12:30 UTC] PHP Notice:  Undefined variable: dropdown in /home/imatrixsol/public_html/fdanew1/html/menup.php on line 29
+[21-Apr-2018 08:12:32 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/imatrixsol/public_html/fdanew1/html/db.php on line 10
+[21-Apr-2018 08:12:32 UTC] PHP Notice:  Undefined variable: dropdown in /home/imatrixsol/public_html/fdanew1/html/menup.php on line 29
+[21-Apr-2018 08:12:34 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/imatrixsol/public_html/fdanew1/html/db.php on line 10
+[21-Apr-2018 08:12:35 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/imatrixsol/public_html/fdanew1/html/db.php on line 10
